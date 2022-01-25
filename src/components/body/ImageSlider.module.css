@@ -1,0 +1,13 @@
+.sectionContainer {
+  padding: 30px 30px;
+  margin: 10px 0;
+  width: 100%;
+  height: auto;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.rounded{
+  border-radius: 20px;
+  overflow: hidden;
+}

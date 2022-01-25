@@ -1,0 +1,43 @@
+.sectionContainer{
+  padding: 30px 30px;
+  padding-bottom:0;
+  margin: 10px 0;
+  width: 100%;
+  height: auto;
+  /* overflow: hidden; */
+}
+
+.topline {
+  font-family: 'Poppins', sans-serif;
+  width:fit-content;
+  font-weight: 700;
+  max-width: 500px;
+  margin: 10px auto;
+}
+
+.smallDivider{
+  width: 20%;
+  height: 2px;
+  border:1px solid #ff5300;
+  margin: 10px auto;
+  margin-bottom: 30px;
+}
+
+.rowContainer {
+  background-color: none;
+  width: 100%;
+  height: auto;
+  /* display: flex;
+  justify-content:space-between;
+  align-items:center; */
+  /* scrollbar-width: none; */
+  overflow: hidden;
+}
+
+
+.longDiv{
+  height:auto;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
